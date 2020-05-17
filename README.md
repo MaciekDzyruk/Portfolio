@@ -41,6 +41,6 @@ W tym skromnym portofolio chciałbym przybliżyć siebie i swoje póki co niewie
 * Testowanie pakietu insERT [nexo Pro](https://trello.com/b/2zUZtXGg/moje-przypadki-testowe-zg%C5%82oszenia-b%C5%82%C4%99d%C3%B3w-do-insert-nexo)
 
 ## Moje skrypty testowe
-* Automatyzacja formularza do zamówienia [Komputera PC](https://gist.github.com/Kruzyd/3ec87082e952dc173b55e4567bc94d0f)
-* Automatyczne logowanie i wylogowywanie z [przykładowej strony](https://gist.github.com/Kruzyd/134ea9098e4dc9ad1358908d32035617)
-* Testy automatyczne na [OrangeHRM](https://gist.github.com/Kruzyd/88c684135b66c39e51f7ec42f416705c)
+* Automatyzacja formularza do zamówienia [Komputera PC](https://gist.github.com/MaciekDzyruk/aabc80b4249f5fec9fdb059ac649bfb1)
+* Automatyczne logowanie i wylogowywanie z [przykładowej strony](https://gist.github.com/MaciekDzyruk/88de90fbc43cfbed015a845a6bf19298)
+* Testy automatyczne na [OrangeHRM](https://gist.github.com/MaciekDzyruk/0621bd0a2ef9fef1bea4f85d783a7529)
