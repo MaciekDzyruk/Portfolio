@@ -10,13 +10,15 @@ W tym skromnym portofolio chciałbym przybliżyć siebie i swoje póki co niewie
 
 ## Narzędzia
 
-* Jira, Trello
+* Jira
+* TestRail
+* Trello
 * Selenium ID
 * IntelliJ
 
 ## Umiejętności testerskie
 * Testowanie manualne
-* Pisanie przypadków testowych
+* Pisanie przypadków i scanariuszów testowych
 * Zgłaszanie błędów 
 * Znajdowanie elementów za pomocą lokalizatorów
 * Tworzenie zapytań SQL
