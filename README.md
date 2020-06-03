@@ -3,7 +3,7 @@
 ## O mnie
 
 Nazywam się Maciej Dzyruk i jestem inżynierem informatyki szukającym możliwości rozwoju w branży IT. Jak wielu przede mną tak i ja potrzebowałem nieco czasu aby odnaleźć swoją ścieżkę zawodową, którą chce podążać.
-Od kilku miesięcy moje działania stały się bardzo ukierunkowane. Postawiłem na coś z czym miałem styczność przez kilka miesięcy ponad 10 lat temu, a mianowicie testowanie oprogramowania. 
+Od kilku miesięcy moje działania stały się bardzo ukierunkowane. Postawiłem na coś z czym miałem styczność przez kilka miesięcy ponad 10 lat temu, a mianowicie [testowanie oprogramowania.](https://drive.google.com/file/d/1PHqweyN8wgcJPiAaGiAG2tMM-mX-wc5j/view?usp=sharing) 
 Rynek testerski wyglądał wtedy trochę inaczej, zabrakło szczęścia i wytrwałości w dążeniu do celu. Już wiem, że podoba mi się testowanie i dodatkowo odpowiada mojej naturze. Pracując z klientami przez niemal dekadę nauczyłem się patrzeć na dane zagadnienie z wielu perspektyw.
 Dlaczego testowanie? W swojej [dotychczasowej](https://www.google.com/maps/place/Siligan+sp.+z+o.o.+-+Sprzeda%C5%BC+i+serwis+komputer%C3%B3w/@52.175073,20.9448203,17z/data=!4m7!3m6!1s0x471ecb77be96e3a3:0xc936f7fe432fe4a4!8m2!3d52.175073!4d20.947009!9m1!1b1) pracy zawsze kierowałem się jakością końcową produktu. Świadomość, że tworzy się coś z czego inny człowiek będzie miał użytek i radość daje mi dużo satysfakcji. 
 W tym skromnym portofolio chciałbym przybliżyć siebie i swoje póki co niewielkie dokonania na polu testowym. Wierzę, że portolio będzie sie rozrastać z czasem jeśli dane mi będzie zmierzyć się z testowaniem na polu zawodowym.     
@@ -38,7 +38,7 @@ W tym skromnym portofolio chciałbym przybliżyć siebie i swoje póki co niewie
 * R.Pawlak - Testowanie oprogramowania. Podręcznik dla początkujących
 
 
-## Moje przypadki testowe/zgłoszone błędy/rsporty z testóww
+## Moje przypadki testowe/zgłoszone błędy/raporty z testóww
 * Przykłady z testów stron [WWW](https://trello.com/b/87LxX0pE/moje-przypadki-testowe-zg%C5%82oszenia-b%C5%82%C4%99d%C3%B3w)
 * Raport testowy z TestRail po wykonanych [przypadkach testowych](https://drive.google.com/file/d/1D7cSRvEkjsut1olTfakP_3qXeFzsnNW3/view?usp=sharing)
 
