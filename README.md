@@ -38,9 +38,9 @@ W tym skromnym portofolio chciałbym przybliżyć siebie i swoje póki co niewie
 * R.Pawlak - Testowanie oprogramowania. Podręcznik dla początkujących
 
 
-## Moje przypadki testowe/zgłoszone błędy
+## Moje przypadki testowe/zgłoszone błędy/rsporty z testóww
 * Przykłady z testów stron [WWW](https://trello.com/b/87LxX0pE/moje-przypadki-testowe-zg%C5%82oszenia-b%C5%82%C4%99d%C3%B3w)
-* Testowanie pakietu insERT [nexo Pro](https://trello.com/b/2zUZtXGg/moje-przypadki-testowe-zg%C5%82oszenia-b%C5%82%C4%99d%C3%B3w-do-insert-nexo)
+* Raport testowy z wykonanych [przypadków testowych](https://drive.google.com/file/d/1D7cSRvEkjsut1olTfakP_3qXeFzsnNW3/view?usp=sharing)
 
 ## Moje skrypty testowe
 * Automatyzacja formularza do zamówienia [Komputera PC](https://gist.github.com/MaciekDzyruk/aabc80b4249f5fec9fdb059ac649bfb1)
