@@ -38,7 +38,7 @@ W tym skromnym portofolio chciałbym przybliżyć siebie i swoje póki co niewie
 * R.Pawlak - Testowanie oprogramowania. Podręcznik dla początkujących
 
 
-## Moje przypadki testowe/zgłoszone błędy/raporty z testóww
+## Moje przypadki testowe/zgłoszone błędy/raporty z testów
 * Przykłady z testów stron [WWW](https://trello.com/b/87LxX0pE/moje-przypadki-testowe-zg%C5%82oszenia-b%C5%82%C4%99d%C3%B3w)
 * Raport testowy z TestRail po wykonanych [przypadkach testowych](https://drive.google.com/file/d/1D7cSRvEkjsut1olTfakP_3qXeFzsnNW3/view?usp=sharing)
 
