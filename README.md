@@ -13,7 +13,7 @@ W tym skromnym portofolio chciałbym przybliżyć siebie i swoje póki co niewie
 * Jira
 * TestRail
 * Trello
-* Selenium ID
+* Selenium IDE
 * IntelliJ
 
 ## Umiejętności testerskie
